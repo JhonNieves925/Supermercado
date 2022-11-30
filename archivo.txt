@@ -1,0 +1,36 @@
+-----------------SUPERMERCADO CALI -----------------
+
+-----------------
+Cafe lbr
+$ 3.0COP
+Cantidad: 5
+$ 15.0COP
+
+
+-----------------
+Lata atun
+$ 5.0COP
+Cantidad: 4
+$ 20.0COP
+
+
+-----------------
+Azucar lbr
+$ 2.0COP
+Cantidad: 1
+$ 2.0COP
+
+
+-----------------
+Leche 1ltr
+$ 3.0COP
+Cantidad: 1
+$ 3.0COP
+
+
+SubTotal  $ 40.0COP
+IVA  $ 7.6COP
+Total  $ 47.6COP
+
+ Agradecemos su compra en Supermercado Cali 
+ AVISO!! Por favor verificar que su factura este en orden 
